@@ -14,8 +14,6 @@ Both these systems are mentioned as they are both very similar in scope and requ
 
 ### Tools, Technologies and Equipment
 
-TODO: Write a list of things you propose to use in your work. This can be hardware, programming languages etc.
-
 - Raspberry Pi and/or Arduino
 - Python/JavaScript
 - Servos
