@@ -1,7 +1,7 @@
 # IoT_Project_2021
 A repository for my 4th semester IoT project.
 
-#Proposal:
+# Proposal:
 
 Smart Plant Garden System
 Student Name: Jack Fitzpatrick Student ID: 20090266
