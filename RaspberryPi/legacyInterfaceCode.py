@@ -1,9 +1,12 @@
+#THIS IS LEGACY CODE, THE FILE "interfaceCodePi.py" IS THE UP TO DATE ONE!!
+
 #!/usr/bin/env python
 import serial
 import time
 import io
 from datetime import datetime
 from threading import Thread
+
 
 #initialise serial comms
 ser = serial.Serial('/dev/ttyACM0', 9600, timeout = 120)
